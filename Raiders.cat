@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="f20d-909e-e03e-b2b4" name="Raiders" revision="1" battleScribeVersion="2.03" authorName="Ky" library="false" gameSystemId="7e9f-cab7-294b-0a43" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <entryLinks>
+    <entryLink id="8798-4485-686d-c35b" name="Ack-Ack" publicationId="46ce-f0fa-d67d-4775" hidden="false" collective="false" import="true" targetId="b587-2657-c59a-4e4b" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="4e9a-fd7f-50e0-a28d" name="Unique Units" hidden="false" targetId="fd4e-6748-2277-bf77" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="dff1-280a-7dfa-d42d" name="Avery" publicationId="46ce-f0fa-d67d-4775" hidden="false" collective="false" import="true" targetId="37a6-8f7f-58c8-4770" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="2dcb-5910-4338-8be0" name="Unique Units" hidden="false" targetId="fd4e-6748-2277-bf77" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="2de0-1e89-e96f-2284" name="Sinjin" publicationId="46ce-f0fa-d67d-4775" hidden="false" collective="false" import="true" targetId="31ea-68a5-56b4-1bb4" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="0ed7-7ea0-f68e-df48" name="New CategoryLink" hidden="false" targetId="fd4e-6748-2277-bf77" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="a071-61f8-010d-7e47" name="Psycho" publicationId="46ce-f0fa-d67d-4775" hidden="false" collective="false" import="true" targetId="1a99-06af-1f60-e019" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="15d7-c0c8-7682-a948" name="New CategoryLink" hidden="false" targetId="d84a-1cd2-6dcc-ddb2" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="dffb-6f8d-dde8-0ab0" name="Raider" publicationId="46ce-f0fa-d67d-4775" hidden="false" collective="false" import="true" targetId="2510-9096-2c11-7ffd" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d9fa-fffb-e7a4-090e" name="New CategoryLink" hidden="false" targetId="d84a-1cd2-6dcc-ddb2" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="a3a6-7e8d-7bb7-de5f" name="Scavver" publicationId="46ce-f0fa-d67d-4775" hidden="false" collective="false" import="true" targetId="e1fd-1af2-adc3-006f" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="ac41-369f-53bc-43c9" name="New CategoryLink" hidden="false" targetId="d84a-1cd2-6dcc-ddb2" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="22b4-8c2b-4bdf-da10" name="Dog" hidden="false" collective="false" import="true" targetId="de17-e7ab-2531-0255" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="262d-04e3-7fc1-4752" name="New CategoryLink" hidden="false" targetId="d84a-1cd2-6dcc-ddb2" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="a604-486f-ddde-3c18" name="Veteran Raider" publicationId="46ce-f0fa-d67d-4775" hidden="false" collective="false" import="true" targetId="81b0-af22-7cd3-459d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="008d-9ec2-6465-4a39" name="New CategoryLink" hidden="false" targetId="d84a-1cd2-6dcc-ddb2" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="31d9-cb6b-4a22-c607" name="Laser Turret" hidden="false" collective="false" import="true" targetId="9db5-3e4f-7a43-8f1a" type="selectionEntry"/>
+    <entryLink id="f992-2d50-e091-be8f" name="Machine Gun Turret Mk1" hidden="false" collective="false" import="true" targetId="39c8-cbc1-5606-217e" type="selectionEntry"/>
+  </entryLinks>
+  <rules>
+    <rule id="0484-0bb6-13e1-1149" name="Raiders" hidden="false">
+      <description>
+1. For Raider-faction models, the final round of an active chem lasts one additional round.
+
+2. Raider-faction models do not need LoS to a target to use Charge when charging to engage a model which is already engaged with a friendly Raider faction model.</description>
+    </rule>
+  </rules>
+</catalogue>
